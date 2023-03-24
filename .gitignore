@@ -5,3 +5,7 @@
 /OpenGL/.vs/OpenGL/v17
 /OpenGL/OpenGL/OpenGL.vcxproj.user
 /OpenGL/OpenGL/OpenGL.vcxproj.filters
+/OpenGL/OpenGL/x64
+/OpenGL/OpenGL/Release
+/OpenGL/OpenGL/Debug
+/OpenGL/x64/Release
